@@ -1,0 +1,16 @@
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\bin\Debug\netcoreapp3.1\Todo2.Domain.Infra.deps.json
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\bin\Debug\netcoreapp3.1\Todo2.Domain.Infra.runtimeconfig.json
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\bin\Debug\netcoreapp3.1\Todo2.Domain.Infra.runtimeconfig.dev.json
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\bin\Debug\netcoreapp3.1\Todo2.Domain.Infra.dll
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\bin\Debug\netcoreapp3.1\Todo2.Domain.Infra.pdb
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\bin\Debug\netcoreapp3.1\Todo2.Domain.dll
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\bin\Debug\netcoreapp3.1\Todo2.Domain.pdb
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.csproj.AssemblyReference.cache
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.AssemblyInfo.cs
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.csproj.CopyComplete
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.dll
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.pdb
+C:\Users\gabri\Todo2\Todo2.Domain.Infra\obj\Debug\netcoreapp3.1\Todo2.Domain.Infra.genruntimeconfig.cache
