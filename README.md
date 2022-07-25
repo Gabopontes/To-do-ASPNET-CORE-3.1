@@ -3,9 +3,9 @@
 *   Neste projeto construi uma API para um futuro app de Lista de Tarefas. 
 
 ## Neste projeto utilizei ase seguintes metodologias:
-*   estruturar e organizar uma solução de API
-*   implementação de CQRS em uma API
-*   implementalção de Design By Contract
+*   Estruturar e organizar uma solução de API
+*   Implementação de CQRS em uma API
+*   Implementalção de Design By Contract
 *   Modelar contextos e domínios
 *   Implementação de Domain Notifications
 *   Implementção de tratamento de exceções
